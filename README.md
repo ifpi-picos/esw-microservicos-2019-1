@@ -11,7 +11,22 @@ Repositório com o conteúdo da disciplina de Arquitetura de Microserviços da P
 
 | Semana | Conteúdo |
 | ------ | ------ |
-| 1 | Apresentacão do plano de ensino disciplina |
+| 1 | Apresentacão do plano de ensino disciplina e Contextualização (arquitetura e serviços) |
+| 2 | Apresentação do projeto |
+| 3 | Arquitetura monolítica vs arquitetura de microsserviços |
+| 4 |  Entrega 1 - Apresentação de uma sugestão de arquitetura do projeto  |
+| 5 | Estilo arquitetural Rest |
+| 6 | Prova teórica (Avaliação 1) |
+| 7 | Definição da arquitetura do projeto (Prática) |
+| 8 | DevOps (integração contínua, testes automatizados e deploy contínuo) |
+| 9 | Definição do processo DevOps do projeto (Prática) |
+| 10 |  Entrega 2 - Apresentação da arquitetura e devops do projeto  |
+| 11 | Introdução à API RESTful |
+| 12 | Implementação de Microserviços em Node.js |
+| 13 |  Implementação do projeto  (Prática) |
+| 14 |  Monitoramento do projeto   (Prática) |
+| 15 |  Entregra 3 - Apresentação do Projeto, (Avaliação 1) |
+
 
   ## Projetos
 
