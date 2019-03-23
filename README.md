@@ -14,7 +14,7 @@ Repositório com o conteúdo da disciplina de Arquitetura de Microserviços da P
 | 1 | Apresentacão do plano de ensino disciplina e Contextualização (arquitetura e serviços) |
 | 2 | Apresentação do projeto |
 | 3 | Arquitetura monolítica vs arquitetura de microsserviços |
-| 4 |  Entrega 1 - Apresentação de uma sugestão de arquitetura do projeto  |
+| 4 |  <span style="color:red">Entrega 1</span> - Apresentação de uma sugestão de arquitetura do projeto  |
 | 5 | Estilo arquitetural Rest |
 | 6 | Prova teórica (Avaliação 1) |
 | 7 | Definição da arquitetura do projeto (Prática) |
