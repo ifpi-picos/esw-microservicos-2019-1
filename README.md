@@ -4,7 +4,7 @@ Repositório com o conteúdo da disciplina de Arquitetura de Microserviços da P
 
   1. [Cronograma](#cronograma)
   1. [Projetos](#projetos)
-  1. [Plano de Ensino](#ementa)
+  1. [Plano de Ensino](https://github.com/prof-jesiel-viana/microservicos-2019-1/blob/master/Plano%20de%20ensino.pdf)
 
 
   ## Cronograma
@@ -14,7 +14,4 @@ Repositório com o conteúdo da disciplina de Arquitetura de Microserviços da P
 | 1 | Apresentacão do plano de ensino disciplina |
 
   ## Projetos
-
-
-  ## Plano de Ensino
 
