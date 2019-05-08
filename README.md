@@ -13,11 +13,11 @@ Repositório com o conteúdo da disciplina de Arquitetura de Microserviços da P
 | ------ | ------ |
 | 1 | Apresentacão do plano de ensino disciplina e Introdução à arquitetura |
 | 2 | Apresentação do projeto e divisão das equipes |
-| 3 | SaaS e arquitetura de microsserviços |
-| 4 | **Entrega 1** - Apresentação de uma sugestão de arquitetura do projeto  |
-| 5 | Estilo arquitetural Rest |
-| 6 | **Entrega 2** - Prova teórica |
-| 7 | Definição da arquitetura do projeto (Prática) |
+| 3 | Software como Serviços (SaaS) |
+| 4 | Arquitetura de microsserviços |
+| 5 | Propor uma arquitetura para o projeto  |
+| 6 | Estilo arquitetural Rest |
+| 7 | **Entrega 1** - Apresentação de uma sugestão de arquitetura do projeto |
 | 8 | DevOps (integração contínua, testes automatizados e deploy contínuo) |
 | 9 | Definição do processo DevOps do projeto (Prática) |
 | 10 |  **Entrega 3** - Apresentação da arquitetura e devops do projeto  |
