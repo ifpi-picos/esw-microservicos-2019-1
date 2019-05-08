@@ -2,13 +2,13 @@
 
 Repositório com o conteúdo da disciplina de Arquitetura de Microserviços da Pós-graduação Lato Sensu em Engenharia de Software com Ênfase em Desenvolvimento para Web.
 
-  1. [Cronograma](#cronograma)
-  1. [Projeto](https://docs.google.com/document/d/16NqDmR0DPG2JcMWISkUpIdeKvDl8RKrnIjN4jx0kpx0/edit?usp=sharing)
-  1. [Plano de Ensino](https://github.com/prof-jesiel-viana/microservicos-2019-1/blob/master/Plano%20de%20ensino.pdf)
+## Proposta de Projeto
+[Doc](https://docs.google.com/document/d/16NqDmR0DPG2JcMWISkUpIdeKvDl8RKrnIjN4jx0kpx0/edit?usp=sharing)
 
+## Exemplos de Projetos 
+[UNB - EPS/MDS](https://github.com/fga-eps-mds?utf8=%E2%9C%93&q=2017.2)
 
-  ## Cronograma
-
+## Cronograma
 | Semana | Conteúdo |
 | ------ | ------ |
 | 1 | Apresentacão do plano de ensino disciplina e Introdução à arquitetura |
