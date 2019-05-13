@@ -20,12 +20,12 @@ Repositório com o conteúdo da disciplina de Arquitetura de Microserviços da P
 | 7 | **Entrega 1** - Apresentação de uma sugestão de arquitetura do projeto |
 | 8 | DevOps (integração contínua, testes automatizados e deploy contínuo) |
 | 9 | Definição do processo DevOps do projeto (Prática) |
-| 10 |  **Entrega 3** - Apresentação da arquitetura e devops do projeto  |
+| 10 |  **Entrega 2** - Apresentação da arquitetura e devops do projeto  |
 | 11 | Introdução à API RESTful |
 | 12 | Implementação de Microserviços em Node.js |
 | 13 |  Implementação do projeto  (Prática) |
 | 14 |  Monitoramento do projeto   (Prática) |
-| 15 |  **Entregra 4** - Apresentação do Projeto |
+| 15 |  **Entregra 3** - Apresentação do Projeto |
 
 
   ## Projetos
