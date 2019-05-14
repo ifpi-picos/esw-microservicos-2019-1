@@ -2,11 +2,9 @@
 
 Repositório com o conteúdo da disciplina de Arquitetura de Microserviços da Pós-graduação Lato Sensu em Engenharia de Software com Ênfase em Desenvolvimento para Web.
 
-## Proposta de Projeto
-[Doc](https://docs.google.com/document/d/16NqDmR0DPG2JcMWISkUpIdeKvDl8RKrnIjN4jx0kpx0/edit?usp=sharing)
-
-## Exemplos de Projetos 
-[UNB - EPS/MDS](https://github.com/fga-eps-mds?utf8=%E2%9C%93&q=2017.2)
+## Projeto
+* [Proposta de Projeto](https://docs.google.com/document/d/16NqDmR0DPG2JcMWISkUpIdeKvDl8RKrnIjN4jx0kpx0/edit?usp=sharing)
+* [Exmeplos de Projetos (UNB - EPS/MDS)](https://github.com/fga-eps-mds?utf8=%E2%9C%93&q=2017.2)
 
 ## Cronograma
 | Semana | Conteúdo |
