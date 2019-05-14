@@ -5,6 +5,7 @@ Repositório com o conteúdo da disciplina de Arquitetura de Microserviços da P
 ## Projeto
 * [Proposta de Projeto](https://docs.google.com/document/d/16NqDmR0DPG2JcMWISkUpIdeKvDl8RKrnIjN4jx0kpx0/edit?usp=sharing)
 * [Exmeplos de Projetos (UNB - EPS/MDS)](https://github.com/fga-eps-mds?utf8=%E2%9C%93&q=2017.2)
+* [Template Documento de Arquitetura](https://github.com/prof-jesielviana/microservicos-2019-1/tree/master/templates)
 
 ## Cronograma
 | Semana | Conteúdo |
