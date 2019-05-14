@@ -26,6 +26,3 @@ Repositório com o conteúdo da disciplina de Arquitetura de Microserviços da P
 | 14 |  Monitoramento do projeto   (Prática) |
 | 15 |  **Entregra 3** - Apresentação do Projeto |
 
-
-  ## Projetos
-
